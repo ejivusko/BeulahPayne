@@ -98,7 +98,7 @@
       <polyhotspot id="Poly26" borderalpha="1" backgroundcolor="0x4df500" description="" backgroundalpha="0.392157" title="Kindergarten 1" target="" bordercolor="0x000000" url="{node317}">
         <polystring>-8.1/-12.56|-10.15/-12.56|-10.14/-16.21|-8.1/-16.21</polystring>
       </polyhotspot>
-      <polyhotspot id="Poly27" borderalpha="1" backgroundcolor="0xfbfe21" description="" backgroundalpha="0.392157" title="" target="" bordercolor="0x000000" url="{node319}">
+      <polyhotspot id="Poly27" borderalpha="1" backgroundcolor="0xfbfe21" description="" backgroundalpha="0.392157" title="Library" target="" bordercolor="0x000000" url="{node319}">
         <polystring>-10.59/4.22|-14.16/4.22|-14.16/-2.55|-10.58/-2.55</polystring>
       </polyhotspot>
     </hotspots>
